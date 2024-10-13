@@ -1,0 +1,26 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_98_3132)">
+<g clip-path="url(#clip1_98_3132)">
+<rect x="12.05" y="0.05" width="71.9" height="95.9" rx="3.95" stroke="white" stroke-width="0.1"/>
+<rect x="0.05" y="83.95" width="71.9" height="95.9" rx="3.95" transform="rotate(-90 0.05 83.95)" stroke="white" stroke-width="0.1"/>
+<rect x="6.05" y="89.95" width="83.9" height="83.9" rx="3.95" transform="rotate(-90 6.05 89.95)" stroke="white" stroke-width="0.1"/>
+<circle cx="48" cy="48" r="23.95" stroke="white" stroke-width="0.1"/>
+<circle cx="48" cy="48" r="47.95" stroke="white" stroke-width="0.1"/>
+<path d="M48 0V96" stroke="white" stroke-width="0.1"/>
+<path d="M96 47.9999L0 47.9999" stroke="white" stroke-width="0.1"/>
+<path d="M0 6.10352e-05L96 96.0001" stroke="white" stroke-width="0.1"/>
+<path d="M0 96.0001L96 5.62289e-05" stroke="white" stroke-width="0.1"/>
+<path d="M25.6416 90.4728C27.0797 90.4644 28.4659 90.1346 29.4945 89.5368L59.8103 71.5187C63.2057 69.563 65.9594 65.2917 65.9594 61.976V33.5368C65.9594 26.8761 64.5079 20.922 62.0167 16.4448C73.5834 19.878 81.7427 28.1929 81.7427 37.908V84.1749C81.7427 87.6859 78.0767 90.5367 73.5439 90.5367H26.8083C26.4122 90.5367 26.0227 90.5149 25.6416 90.4728Z" stroke="black" stroke-width="4"/>
+<path d="M18.6128 64.2749C19.261 64.091 19.9526 63.7767 20.6707 63.3246L37.1189 53.216C41.7761 50.3538 44.6384 45.1107 44.6384 39.4421V22.9964C44.6384 17.5879 43.7219 13.256 42.1194 10.3192C42.1754 10.2866 42.2315 10.2542 42.2876 10.2218C55.3597 2.69704 65.9603 15.5367 65.9603 33.5368V61.976C65.9603 65.2917 63.2066 69.563 59.8111 71.5187L29.4954 89.5368C26.0538 91.5368 18.6104 90.5368 18.6104 84.5368L18.6128 64.2749Z" stroke="black" stroke-width="4"/>
+<path d="M33.2387 6.50703C23.3322 10.1545 14.0049 26.5433 14.0049 44.4012L14 60.4046C14 64.3366 16.9871 65.6438 20.6705 63.3246L37.1187 53.216C41.7759 50.3538 44.6382 45.1107 44.6382 39.4421V22.9964C44.6382 10.7625 39.9484 4.03662 33.2387 6.50703Z" stroke="black" stroke-width="4"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_98_3132">
+<rect width="96" height="96" fill="white"/>
+</clipPath>
+<clipPath id="clip1_98_3132">
+<rect width="96" height="96" fill="white"/>
+</clipPath>
+</defs>
+</svg>
